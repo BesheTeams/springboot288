@@ -41,67 +41,67 @@
 
 图4.1 用户实体属性图
 
-[图1](images/image_0.jpg)
+![图1](images/image_0.jpg)
 
 （2）下图是字典表实体和其具备的属性。
 
 图4.2 字典表实体属性图
 
-[图2](images/image_1.jpg)
+![图2](images/image_1.jpg)
 
 （3）下图是疾病预防实体和其具备的属性。
 
 图4.3 疾病预防实体属性图
 
-[图3](images/image_2.jpg)
+![图3](images/image_2.jpg)
 
 （4）下图是体检项目实体和其具备的属性。
 
 图4.4 体检项目实体属性图
 
-[图4](images/image_3.jpg)
+![图4](images/image_3.jpg)
 
 （5）下图是体检提醒实体和其具备的属性。
 
 图4.5 体检提醒实体属性图
 
-[图5](images/image_4.jpg)
+![图5](images/image_4.jpg)
 
 （6）下图是论坛实体和其具备的属性。
 
 图4.6 论坛实体属性图
 
-[图6](images/image_5.jpg)
+![图6](images/image_5.jpg)
 
 （7）下图是在线咨询实体和其具备的属性。
 
 图4.7 在线咨询实体属性图
 
-[图7](images/image_6.jpg)
+![图7](images/image_6.jpg)
 
 （8）下图是单页数据实体和其具备的属性。
 
 图4.8 单页数据实体属性图
 
-[图8](images/image_7.jpg)
+![图8](images/image_7.jpg)
 
 （9）下图是健康常识实体和其具备的属性。
 
 图4.9 健康常识实体属性图
 
-[图9](images/image_8.jpg)
+![图9](images/image_8.jpg)
 
 （10）下图是用户表实体和其具备的属性。
 
 图4.10 用户表实体属性图
 
-[图10](images/image_9.jpg)
+![图10](images/image_9.jpg)
 
 （11）下图是体检项目预约实体和其具备的属性。
 
 图4.11 体检项目预约实体属性图
 
-[图11](images/image_10.jpg)
+![图11](images/image_10.jpg)
 
 4.3.2 数据库物理设计
 
@@ -147,9 +147,9 @@
 
 还进行了对用户名称的模糊查询的条件
 
-[图12](images/image_11.png)
+![图12](images/image_11.png)
 
-[图13](images/image_12.png)
+![图13](images/image_12.png)
 
 图5.1 用户信息管理页面
 
@@ -157,9 +157,9 @@
 
 如图5.2显示的就是体检项目管理页面，此页面提供给管理员的功能有：查看已发布的体检项目数据，修改体检项目，体检项目作废，即可删除，还进行了对体检项目名称的模糊查询 体检项目信息的类型查询等等一些条件。
 
-[图14](images/image_13.png)
+![图14](images/image_13.png)
 
-[图15](images/image_14.png)
+![图15](images/image_14.png)
 
 图5.2 体检项目管理页面
 
@@ -167,9 +167,9 @@
 
 如图5.3显示的就是项目类型管理页面，此页面提供给管理员的功能有：根据项目类型进行条件查询，还可以对项目类型进行新增、修改、查询操作等等。
 
-[图16](images/image_15.png)
+![图16](images/image_15.png)
 
-[图17](images/image_16.png)
+![图17](images/image_16.png)
 
 图5.3 项目类型管理页面
 
@@ -177,9 +177,9 @@
 
 如图5.4显示的就是健康常识管理页面，此页面提供给管理员的功能有：根据健康常识进行新增、修改、查询操作等等。
 
-[图18](images/image_17.png)
+![图18](images/image_17.png)
 
-[图19](images/image_18.png)
+![图19](images/image_18.png)
 
 图5.4 健康常识管理页面
 
